@@ -1,0 +1,11 @@
+refresco_id,refresco_desc,categoria_id,sabor_id
+1,Coca-Cola Regular 600ml,1,1
+2,Coca-Cola Light 600ml,2,2
+3,Coca-Cola Zero 600ml,3,3
+4,Fanta Naranja 500ml,1,4
+5,Sprite 500ml,1,5
+6,Fresca 500ml,1,10
+7,Coca-Cola Regular 1L,1,1
+8,Coca-Cola Light 1L,2,2
+9,Sidral Mundet 500ml,1,7
+10,Topo Chico Agua Mineral 500ml,4,1

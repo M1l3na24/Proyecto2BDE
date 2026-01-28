@@ -1,0 +1,51 @@
+direccion_id,direccion_desc,rfc_tienda
+1,Av. Juárez 123 Col. Centro,OXC1234567890
+2,Insurgentes Sur 456 Col. Condesa,OXI9876543210
+3,Av. Presidente Masaryk 123 Polanco,SEV5556667771
+4,Periférico Sur 1500 Perisur,WAL1112223334
+5,Av. Central 200 Plaza Aragón,CHE4445556667
+6,Blvd. Manuel Ávila Camacho 100 Satélite,SOR7778889990
+7,Av. Michoacán 89 Col. Condesa,OXX3334445556
+8,Av. Álvaro Obregón 256 Col. Roma,SEV2223334445
+9,Av. Vasco de Quiroga 3800 Santa Fe,WAL6667778889
+10,Av. Horacio 567 Polanco,OXP9990001112
+11,Paseo de la Reforma 222 Col. Juárez,OXR1112223334
+12,Av. México 123 Col. Condesa,SEV3334445556
+13,Vialidad de la Barranca 345 Interlomas,WAL4445556667
+14,Blvd. Manuel Ávila Camacho 500 Satélite,CHS5556667778
+15,Periférico Sur 2000 Perisur,SOR6667778889
+16,Av. Miguel Ángel de Quevedo 789 Coyoacán,OXC7778889990
+17,Av. Revolución 1500 San Ángel,OXS8889990001
+18,Av. Insurgentes Sur 3000 Nápoles,SEV9990001112
+19,Av. Universidad 1200 Coyoacán,WAL0001112223
+20,Av. Montevideo 456 Lindavista,CHM1112223334
+21,Av. Instituto Técnico 789 Lindavista,OXL2223334445
+22,Av. Cuauhtémoc 234 Narvarte,OXN3334445556
+23,Av. Coyoacán 567 Del Valle,SEV4445556667
+24,Calzada de Tlalpan 1500 Coapa,WAL5556667778
+25,Av. San Jerónimo 789 Pedregal,CHP6667778889
+26,Av. México-Coyoacán 456 Coyoacán,SOR8889990001
+27,Av. División del Norte 123 Del Valle,OXD8889990002
+28,Av. Ejército Nacional 456 Anzures,OXA9990001113
+29,Av. Álvaro Obregón 789 Roma Norte,SEV0001112224
+30,Calzada de Tlalpan 2000 Tlalpan,WAL1112223335
+31,Av. Copilco 123 Copilco,CHC2223334446
+32,Av. Moliere 456 Polanquito,OXP3334445557
+33,Av. Paseo de las Palmas 789 Lomas,OXL4445556668
+34,Av. Juárez 500 Col. Juárez,SEV5556667779
+35,Av. Revolución 1500 Mixcoac,WAL6667778890
+36,Av. Gustavo Baz 234 Tlalnepantla,CHT7778889991
+37,Av. Montevideo 567 Lindavista,SOR9990001112
+38,Av. Revolución 1800 Mixcoac,OXM9990001114
+39,Av. Jardín Balbuena 123 Balbuena,OXJ0001112225
+40,Av. Cuitláhuac 456 Narvarte,SEV1112223336
+41,Av. Central 789 Ecatepec,WAL2223334447
+42,Av. San Mateo 123 Naucalpan,CHN3334445558
+43,Eje 1 Norte Mosqueta 456 Buenavista,OXB4445556669
+44,Calle Londres 234 Zona Rosa,OXZ5556667770
+45,Av. Ribera de San Cosme 567 San Rafael,SEV6667778880
+46,Blvd. Cuautitlán 123 Cuautitlán,WAL7778889991
+47,Calzada Ermita Iztapalapa 789 Iztapalapa,CHI8889990002
+48,Av. 548 234 Aragón,SOR0001112223
+49,Av. Parque Vía 567 Granada,OXG0001112224
+50,Av. Hipódromo Condesa 123 Hipódromo,OXH1112223337
