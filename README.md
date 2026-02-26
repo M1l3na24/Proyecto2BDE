@@ -1,8 +1,12 @@
 # Proyecto2BDE
-Implementación BD OLAP
+BD OLAP Implementation
 
-Equipo:
+Analytical database (snowflake) to perform predictive queries simulating data from the Coca-Cola company.
+
+Team:
 
 Angel Noel Pérez Martínez
+
 Ignacio Chuquiure Gil
+
 Milena Fernanda Rivera Hernández
